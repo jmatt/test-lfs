@@ -1,5 +1,0 @@
-[lfs]
-	url = "https://localhost:9999/test/test"
-
-[http]
-        sslverify = false
